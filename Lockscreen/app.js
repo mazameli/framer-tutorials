@@ -35,6 +35,7 @@ pager = new PageComponent ({
 	scrollVertical: false
 })
 
+
 pager.addPage(home);
 pager.addPage(numbers);
 
